@@ -1,4 +1,4 @@
-![alt text](https://github.com/laurentbalmelli/visual_concept_modeling/blob/master/keio.?raw=true)
+![alt text](https://github.com/laurentbalmelli/visual_concept_modeling/main/keio.png?raw=true)
 
 # Visual Concept Modeling - Selection of Concept Models
 This repository contains a selection of interesting product conceptual models that were build by students using the visual conceptual modeling approach taught at Keio University (Nishimura/Teshima/Balmelli) in Tokyo Japan. All the models and the ideas that they convey are open source and free to reuse, modify and reproduce under the terms of the MIT license attached to this project.
